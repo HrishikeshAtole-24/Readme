@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 ![Banner](https://your-image-url.com/banner.png)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hrishi 👋
 
 ## About Me
 I am a passionate software developer with experience in building web applications, mobile apps, and backend services. I love working with cutting-edge technologies and constantly strive to improve my skills.
